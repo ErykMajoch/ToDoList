@@ -16,8 +16,7 @@ This is just a list of the projects I want to work on in the future.
 - [ ] Mathematic equation parser in C++
 
 ### Data Structures
-- [x] Implement a singly linked list in C++<br />
-&ensp;-> [Completed](https://github.com/ErykMajoch/Singly-Linked-List-cpp)
+- [x] [Implement a singly linked list in C++](https://github.com/ErykMajoch/Singly-Linked-List-cpp)
 - [ ] Implement a hash table in C++
 - [ ] Implement own `std::vector` in C++
 
