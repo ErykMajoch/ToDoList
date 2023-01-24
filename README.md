@@ -13,6 +13,6 @@ This is just a list of the projects I want to work on in the future.
 - [ ] Mathematic equation parser in C++
 
 ### Data Structures
-- [x] Implement a singly linked list in C++
-    -> [Completed](https://github.com/ErykMajoch/Singly-Linked-List-cpp)
+- [x] Implement a singly linked list in C++<br />
+&emsp;-> [Completed](https://github.com/ErykMajoch/Singly-Linked-List-cpp)
 
